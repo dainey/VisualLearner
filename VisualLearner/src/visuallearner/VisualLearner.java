@@ -8,7 +8,7 @@ package visuallearner;
 
 /**
  *
- * @author Tash
+ * @author DavidGardner
  */
 public class VisualLearner {
 
@@ -18,6 +18,7 @@ public class VisualLearner {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Revising");
+        System.out.println("David's Test");
     }
     
 }
