@@ -17,7 +17,7 @@ public class VisualLearner {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("Post");
+        System.out.println("Posting working");
     }
     
 }
